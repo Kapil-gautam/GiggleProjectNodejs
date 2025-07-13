@@ -14,27 +14,6 @@ This is a lightweight Node.js + Express backend that simulates a challenge submi
 
 ---
 
-## 📂 Project Structure
-
-giggle-project/
-│
-├── routes/
-│ ├── challenges.js
-│ └── submissions.js
-│
-├── data/
-│ └── submissions.json
-│
-├── utils/
-│ └── moderation.js
-│
-├── app.js
-├── package.json
-└── README.md
-
-
----
-
 ## 🚀 How to Run
 
 1. Clone or download the repo
